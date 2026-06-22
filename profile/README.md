@@ -1,35 +1,36 @@
 # DNZ Labs
 
-AI Engineering & Applied Research.
+AI Engineering & Applied Research
 
 Building intelligent systems, agents and automation.
 
-## Focus Areas
+---
 
-- AI Agents
-- RAG Systems
-- Intelligent Automation
-- Applied AI Solutions
+## What We Build
 
-## Current Projects
+🤖 AI Agents
 
-- AI News Analyst
-- RAG Document Assistant
-- Research Agent
+📚 RAG Systems
 
-## Technology Stack
+⚡ Intelligent Automation
 
-- Python
-- TypeScript
-- Next.js
-- OpenAI API
-- Vector Databases
-- Cloud Infrastructure
+🔬 Applied AI Solutions
 
-## Website
+---
 
-https://dnzlabs.tech
+## Featured Projects
 
-## Location
+### AI News Analyst
+Automated news collection, classification and AI-powered analysis.
 
-Dubai, UAE
+### RAG Document Assistant
+Private knowledge base powered by Retrieval-Augmented Generation.
+
+### Research Agent
+Autonomous research and information synthesis workflows.
+
+---
+
+🌐 Website: https://dnzlabs.tech
+
+📍 Dubai, UAE
